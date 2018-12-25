@@ -1,0 +1,181 @@
+{
+  "load": [
+    {
+      "id": 1,
+      "basicInformation": {
+        "cName": "王一二",
+        "sex": "男",
+        "marriage": "已婚",
+        "idNo": "F136535990",
+        "birthday": "1992-10-15T00:00:00.000Z",
+        "eName": "Wang Yi Er",
+        "country": "TW",
+        "residentNo": "",
+        "residenceReason": "未勾選",
+        "familyCourt": "N",
+        "education": "博士",
+        "school": "忠孝國小",
+        "aboriginalCName": "",
+        "aboriginalPYName": "",
+        "sendAddress1": "11491",
+        "sendAddress2": "台北市",
+        "sendAddress3": "內湖區",
+        "sendAddress4": "陽光街301號5樓",
+        "forever": "永久",
+        "houseOwner": "配偶",
+        "billAddress1": "10666",
+        "billAddress2": "台北市",
+        "billAddress3": "大安區",
+        "billAddress4": "八德路二段42巷39號2樓",
+        "livingPhone": "97761234",
+        "registrationAddress1": "11161",
+        "registrationAddress2": "台北市",
+        "registrationAddress3": "士林區",
+        "registrationAddress4": "士東路36巷28號3樓",
+        "registrationPhone": "29214445",
+        "email": "tsb123@hotmail.com",
+        "cellphone": "0944878787",
+        "billMethod": "電子",
+        "receiveMethod": "掛號"
+      },
+      "workingInformation": {
+        "company": "經貿聯網",
+        "companyId": "33456789",
+        "workingDay": "2017-10-11T00:00:00.000Z",
+        "title": "經理",
+        "laborInsurance": "是",
+        "comNo": "0212348598",
+        "extensionNo": "7778",
+        "industryCode": "0200 伐木",
+        "jobCode": "2001 處級主管",
+        "salaryAcc": "Y"
+      },
+      "notices": [
+        {
+          "noticeId": "1",
+          "category": "本人申請",
+          "date": "2018-11-22T11:10:00.000Z",
+          "phone": "申請書-公司電話",
+          "result": "空號/傳真",
+          "desc": "外出",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "2",
+          "category": "工作",
+          "date": "2018-11-22T11:10:01.000Z",
+          "phone": "申請書-手機",
+          "result": "N/A",
+          "desc": "中信",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "3",
+          "category": "財力",
+          "date": "2018-11-23T10:10:02.000Z",
+          "phone": "申請書-住家電話",
+          "result": "照會本人在職與申請無誤",
+          "desc": "",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "4",
+          "category": "工作",
+          "date": "2018-11-23T15:10:03.000Z",
+          "phone": "申請書-公司電話",
+          "result": "N/A",
+          "desc": "",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "5",
+          "category": "工作",
+          "date": "2018-11-23T16:10:03.000Z",
+          "phone": "申請書-公司電話",
+          "result": "N/A",
+          "desc": "",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "6",
+          "category": "工作",
+          "date": "2018-11-23T17:10:03.000Z",
+          "phone": "申請書-住家電話",
+          "result": "N/A",
+          "desc": "",
+          "userId": "張一二"
+        },
+        {
+          "noticeId": "7",
+          "category": "工作",
+          "date": "2018-11-23T17:50:03.000Z",
+          "phone": "申請書-住家電話",
+          "result": "N/A",
+          "desc": "",
+          "userId": "張一二"
+        }
+      ],
+      "cards": [
+        {
+          "id": 1,
+          "name": "001 - 169 - aGoGOiCash御璽卡",
+          "ownerId": "master",
+          "isLimiting": "Y",
+          "amount": 39
+        },
+        {
+          "id": 2,
+          "name": "001 - 184 - 昇恒昌Visa悠遊無限卡",
+          "ownerId": "master",
+          "isLimiting": "Y",
+          "amount": 43
+        },
+        {
+          "id": 3,
+          "name": "001 - 117 - 玫瑰MASTER普卡",
+          "ownerId": "master",
+          "isLimiting": "Y",
+          "amount": 70
+        },
+        {
+          "id": 4,
+          "name": "001 - 269 - aGoGOiCash御璽卡",
+          "ownerId": "slave1",
+          "isLimiting": "Y",
+          "amount": 57
+        },
+        {
+          "id": 5,
+          "name": "001 - 284 - 昇恒昌Visa悠遊無限卡",
+          "ownerId": "slave1",
+          "isLimiting": "N",
+          "amount": 55
+        },
+        {
+          "id": 6,
+          "name": "001 - 217 - 玫瑰MASTER普卡",
+          "ownerId": "slave2",
+          "isLimiting": "N",
+          "amount": 82
+        }
+      ],
+      "reviewResult": [
+        {
+          "ownerId": "master",
+          "order": 0,
+          "reviewResults": []
+        },
+        {
+          "ownerId": "slave1",
+          "order": 1,
+          "reviewResults": []
+        },
+        {
+          "ownerId": "slave2",
+          "order": 2,
+          "reviewResults": []
+        }
+      ]
+    }
+  ]
+}
